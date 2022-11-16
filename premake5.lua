@@ -20,6 +20,7 @@ project "ImGui"
         "imgui_demo.cpp",
         "imgui_tables.cpp"
     }
+
 	filter "system:windows"
         systemversion "latest"
                      
