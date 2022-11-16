@@ -20,7 +20,6 @@ project "ImGui"
         "imgui_demo.cpp",
         "imgui_tables.cpp"
     }
-    测试的
 	filter "system:windows"
         systemversion "latest"
                      
